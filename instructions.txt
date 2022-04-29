@@ -1,6 +1,6 @@
 CREATE VENV and PLEASE ACTIVATE!!!!
 
-python -m venv venv
+python -m venv virtualenvironmentjjsst
 venv\Scripts\activate.ps1  
 
 fgsgfsxg
