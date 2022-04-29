@@ -3,7 +3,7 @@ CREATE VENV and PLEASE ACTIVATE!!!!
 python -m venv venv
 venv\Scripts\activate.ps1  
 
-
+fgsgfsxg
 
 
 
